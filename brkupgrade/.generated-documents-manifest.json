@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "source": {
+    "repository": "flim-labs/tech-documentation",
+    "commit": "6a2cdecd5b2cd8dc59f643f0bdd4d6e413697a60"
+  },
+  "documents": [
+    {
+      "id": "productlabel",
+      "version": "v3.0.0",
+      "filename": "BRKupgrade-productlabel.pdf"
+    }
+  ]
+}
