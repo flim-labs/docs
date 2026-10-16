@@ -2,17 +2,17 @@
   "schema_version": 1,
   "source": {
     "repository": "flim-labs/tech-documentation",
-    "commit": "fb62522af0e6cac53b740e7748bb1bab4e0d062b"
+    "commit": "a7e83d94e1785e294523168d7c06be313c920fbb"
   },
   "documents": [
     {
       "id": "manual",
-      "version": "v2.2.1",
+      "version": "v2.3.0",
       "filename": "PLD-manual.pdf"
     },
     {
       "id": "quickstart",
-      "version": "v2.1.2",
+      "version": "v2.2.0",
       "filename": "PLD-quickstart.pdf"
     },
     {
