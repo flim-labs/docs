@@ -2,22 +2,22 @@
   "schema_version": 1,
   "source": {
     "repository": "flim-labs/tech-documentation",
-    "commit": "6a2cdecd5b2cd8dc59f643f0bdd4d6e413697a60"
+    "commit": "17bccc51eaa5ef3d22704e67850e3ac009df91a9"
   },
   "documents": [
     {
       "id": "manual",
-      "version": "v1.4.1",
+      "version": "v1.4.6",
       "filename": "Calibkit-manual.pdf"
     },
     {
       "id": "quickstart",
-      "version": "v1.5.2",
+      "version": "v1.5.7",
       "filename": "Calibkit-quickstart.pdf"
     },
     {
       "id": "specsheet",
-      "version": "v1.2.0",
+      "version": "v1.2.1",
       "filename": "Calibkit-specsheet.pdf"
     },
     {
