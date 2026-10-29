@@ -2,22 +2,22 @@
   "schema_version": 1,
   "source": {
     "repository": "flim-labs/tech-documentation",
-    "commit": "69b13e047f96e03c58f1ad45bbcea6e764665671"
+    "commit": "f262e4f5688f6bd7e40833c4bb1d90a43fb3d534"
   },
   "documents": [
     {
       "id": "manual",
-      "version": "v2.3.0",
+      "version": "v2.3.1",
       "filename": "PLD-manual.pdf"
     },
     {
       "id": "quickstart",
-      "version": "v2.2.1",
+      "version": "v2.2.2",
       "filename": "PLD-quickstart.pdf"
     },
     {
       "id": "specsheet",
-      "version": "v2.1.2",
+      "version": "v2.1.3",
       "filename": "PLD-specsheet.pdf"
     },
     {
@@ -27,12 +27,12 @@
     },
     {
       "id": "product-description",
-      "version": "v2.0.1",
+      "version": "v2.0.2",
       "filename": "PLD-product-description.pdf"
     },
     {
       "id": "productlabel",
-      "version": "v3.0.0",
+      "version": "v3.0.1",
       "filename": "PLD-productlabel.pdf"
     }
   ]
