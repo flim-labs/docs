@@ -2,12 +2,12 @@
   "schema_version": 1,
   "source": {
     "repository": "flim-labs/tech-documentation",
-    "commit": "f262e4f5688f6bd7e40833c4bb1d90a43fb3d534"
+    "commit": "87ca51a8ac73d106b9174285e4f7f15b33a4063e"
   },
   "documents": [
     {
       "id": "productlabel",
-      "version": "v3.0.0",
+      "version": "v3.1.0",
       "filename": "FLIMkit-productlabel.pdf"
     }
   ]
