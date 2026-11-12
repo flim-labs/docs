@@ -2,12 +2,12 @@
   "schema_version": 1,
   "source": {
     "repository": "flim-labs/tech-documentation",
-    "commit": "6a2cdecd5b2cd8dc59f643f0bdd4d6e413697a60"
+    "commit": "292414c0bd6c1b8f316d60636c11372bab81692d"
   },
   "documents": [
     {
       "id": "manual",
-      "version": "v2.6.2",
+      "version": "v2.7.1",
       "filename": "Spectroscopy-manual.pdf"
     }
   ]
