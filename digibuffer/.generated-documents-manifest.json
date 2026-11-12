@@ -2,22 +2,22 @@
   "schema_version": 1,
   "source": {
     "repository": "flim-labs/tech-documentation",
-    "commit": "6a2cdecd5b2cd8dc59f643f0bdd4d6e413697a60"
+    "commit": "87ca51a8ac73d106b9174285e4f7f15b33a4063e"
   },
   "documents": [
     {
       "id": "manual",
-      "version": "v1.1.1",
+      "version": "v1.1.4",
       "filename": "Digibuffer-manual.pdf"
     },
     {
       "id": "quickstart",
-      "version": "v1.1.1",
+      "version": "v1.1.4",
       "filename": "Digibuffer-quickstart.pdf"
     },
     {
       "id": "specsheet",
-      "version": "v1.1.0",
+      "version": "v1.1.1",
       "filename": "Digibuffer-specsheet.pdf"
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "id": "product-description",
-      "version": "v1.0.0",
+      "version": "v1.0.2",
       "filename": "Digibuffer-product-description.pdf"
     },
     {
