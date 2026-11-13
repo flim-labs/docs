@@ -2,9 +2,19 @@
   "schema_version": 1,
   "source": {
     "repository": "flim-labs/tech-documentation",
-    "commit": "87ca51a8ac73d106b9174285e4f7f15b33a4063e"
+    "commit": "f09aafaaf53dadeb2245282ca27b66dcdf847244"
   },
   "documents": [
+    {
+      "id": "manual",
+      "version": "v1.1.0",
+      "filename": "QPB-manual.pdf"
+    },
+    {
+      "id": "quickstart",
+      "version": "v1.1.0",
+      "filename": "QPB-quickstart.pdf"
+    },
     {
       "id": "productlabel",
       "version": "v3.0.0",
