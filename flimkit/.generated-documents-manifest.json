@@ -2,9 +2,19 @@
   "schema_version": 1,
   "source": {
     "repository": "flim-labs/tech-documentation",
-    "commit": "87ca51a8ac73d106b9174285e4f7f15b33a4063e"
+    "commit": "d7d97ddc3118f35cb8acd108b237acb349972601"
   },
   "documents": [
+    {
+      "id": "manual",
+      "version": "v1.1.1",
+      "filename": "FLIMkit-manual.pdf"
+    },
+    {
+      "id": "quickstart",
+      "version": "v1.1.0",
+      "filename": "FLIMkit-quickstart.pdf"
+    },
     {
       "id": "productlabel",
       "version": "v3.1.0",
