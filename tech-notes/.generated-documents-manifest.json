@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "source": {
+    "repository": "flim-labs/tech-documentation",
+    "commit": "f174d56a8147dd36f923515534e52296f5df113d"
+  },
+  "documents": [
+    {
+      "id": "tn-002-rld",
+      "version": "v1.0.0",
+      "filename": "tech-note-tn-002-rld.pdf"
+    },
+    {
+      "id": "tn-005-solid-calib-comm",
+      "version": "v1.0.0",
+      "filename": "tech-note-tn-005-solid-calib-comm.pdf"
+    }
+  ]
+}
