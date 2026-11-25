@@ -2,7 +2,7 @@
   "schema_version": 1,
   "source": {
     "repository": "flim-labs/tech-documentation",
-    "commit": "89b2186e0487cff90c148f5f06656632cc24a1db"
+    "commit": "925f7db31fcbec3ff89502c121a1568d8f897df0"
   },
   "documents": [
     {
@@ -19,6 +19,11 @@
       "id": "tn-005-solid-calib-comm",
       "version": "v1.0.0",
       "filename": "tech-note-tn-005-solid-calib-comm.pdf"
+    },
+    {
+      "id": "tn-006-geometric-method",
+      "version": "v1.0.0",
+      "filename": "tech-note-tn-006-geometric-method.pdf"
     }
   ]
 }
